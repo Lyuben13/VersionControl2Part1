@@ -1,0 +1,6 @@
+.idea
+.venv
+.exe
+/venv/
+*.log
+*.pot
